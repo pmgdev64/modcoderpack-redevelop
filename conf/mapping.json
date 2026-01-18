@@ -1,0 +1,7 @@
+{
+    "type": "mcp-srg",
+    "files": {
+        "tsrg": "joined.tsrg",
+        "csv": ["fields.csv", "methods.csv", "params.csv"]
+    }
+}
